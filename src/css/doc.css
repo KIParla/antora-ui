@@ -1085,3 +1085,9 @@
   text-align: right;
   width: 1.5em;
 }
+
+.doc .marked {
+  background-color: #fff3bf;
+  border-radius: 2px;
+  padding: 0 0.15em;
+}
